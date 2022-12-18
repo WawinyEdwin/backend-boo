@@ -1,3 +1,12 @@
+## Install dependencies
+
+Do:
+
+```
+npm install
+
+```
+
 ## Start the app
 
 Do:
@@ -18,7 +27,7 @@ npm test
 
 # API Endpoints
 
-# Profiles..
+## Profiles..
 
 _POST_ ``
 
