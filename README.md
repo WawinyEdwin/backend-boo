@@ -168,7 +168,7 @@ Response - 200
 
 Response - 500
 
-_GET_ `comments/commentId/like`
+_GET_ `comments/:commentId/like`
 
 - Like Comment
 
@@ -176,7 +176,7 @@ Response - 200
 
 Response - 500
 
-_GET_ `comments/commentId/unlike`
+_GET_ `comments/:commentId/unlike`
 
 - Like Comment
 
